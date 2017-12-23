@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+<Ad>
+<ImageUrl>msb.jpg</ImageUrl>
+<NavigateUrl>https://www.myschoolbucks.com/index.jsp</NavigateUrl>
+<AlternateText>My School Bucks</AlternateText>
+<Impressions>1</Impressions>
+<Keyword>Computer</Keyword>
+</Ad>
+<Ad>
+<ImageUrl>myschoolaccount.jpg</ImageUrl>
+<NavigateUrl>https://www.myschoolaccount.com/</NavigateUrl>
+<AlternateText>myschoolaccount</AlternateText>
+<Impressions>1</Impressions>
+<Keyword>Computer</Keyword>
+</Ad>
+<Ad>
+<ImageUrl>esp.jpg</ImageUrl>
+<NavigateUrl>https://www.ezschoolpay.com/Login.aspx</NavigateUrl>
+<AlternateText>Easy School Pay</AlternateText>
+<Impressions>1</Impressions>
+<Keyword>Computer</Keyword>
+</Ad>
+<Ad>
+<ImageUrl>nyc.jpg</ImageUrl>
+<NavigateUrl>https://mystudent.nyc/</NavigateUrl>
+<AlternateText>NYC Site</AlternateText>
+<Impressions>1</Impressions>
+<Keyword>Computer</Keyword>
+</Ad>
+<Ad>
+<ImageUrl>smart.jpg</ImageUrl>
+<NavigateUrl>https://www.smarttuition.com/</NavigateUrl>
+<AlternateText>Smart Tuition</AlternateText>
+<Impressions>1</Impressions>
+<Keyword>Computer</Keyword>
+</Ad>
+<Ad>
+<ImageUrl>vantiv.jpg</ImageUrl>
+<NavigateUrl>https://www.vantiv.com/vantage-point/smarter-payments/school-payment-solutions</NavigateUrl>
+<AlternateText>Vantiv Site</AlternateText>
+<Impressions>1</Impressions>
+<Keyword>Computer</Keyword>
+</Ad>
+<Ad>
+<ImageUrl>slogo.jpg</ImageUrl>
+<NavigateUrl>http://skookii.com/</NavigateUrl>
+<AlternateText>SKOOKII Site</AlternateText>
+<Impressions>1</Impressions>
+<Keyword>Computer</Keyword>
+</Ad>
+<Ad>
+<ImageUrl>diamond.jpg</ImageUrl>
+<NavigateUrl>http://diamondmindinc.com/</NavigateUrl>
+<AlternateText>Diamond Mind Site</AlternateText>
+<Impressions>1</Impressions>
+<Keyword>Computer</Keyword>
+</Ad>
+<Ad>
+<ImageUrl>diamond.jpg</ImageUrl>
+<NavigateUrl>http://diamondmindinc.com/</NavigateUrl>
+<AlternateText>Diamond Mind Site</AlternateText>
+<Impressions>1</Impressions>
+<Keyword>Computer</Keyword>
+</Ad>
+<Ad>
+<ImageUrl>osp.jpg</ImageUrl>
+<NavigateUrl>http://www.osmsinc.com/osp.html</NavigateUrl>
+<AlternateText>Online School Payemnts Site</AlternateText>
+<Impressions>1</Impressions>
+<Keyword>Computer</Keyword>
+</Ad>
+</Advertisements> 

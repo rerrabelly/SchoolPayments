@@ -1,0 +1,97 @@
+﻿body{}
+h3{
+margin: 0px;
+padding-bottom: -20px;
+}
+#head{
+    height:100px;
+    background:maroon;
+    border:1px solid #CCC;
+    width:100%;
+    margin:0px auto;
+}
+#head2{
+    height:100px;
+    background:maroon;
+    border:1px solid #CCC;
+    width:100%;
+    margin:0px auto;
+}
+#section1 {
+    height:200px;
+    background:white;
+    border:1px solid #CCC;
+    width:100%;
+    margin:0px auto;
+}
+
+.section2 {
+    width: 100%;
+}
+
+.section2left {
+    float:left; 
+    width: 43%;
+    background-color: white;
+    height: 400px;
+}
+
+.section2right {
+    float: right;
+    background-color: white;
+    height: 400px;
+    width: 57%;
+}
+.major {
+        height:800px;
+    background:white;
+    border:1px solid #CCC;
+    width:100%;
+    margin:0px auto;
+}
+
+.minor {
+    height:220px;
+    background:#FF7F50;
+    border:1px solid #CCC;
+    width:100%;
+    margin:0px auto;
+}
+.clbutton {
+background-color: blueviolet;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    cursor:pointer;
+}
+div.ub {
+    text-align: center;
+}
+div.ajax {
+    width: 100%;
+    background-color: #FF7F50;
+    height: 400px;
+    text-align: center;
+}
+#demo {
+    width: 100%;
+    height: 250px;
+    text-align: center;
+}
+div.ajbtm {
+text-align:center;
+    width: 100%;
+    height: 50px;
+}
+button.ajbtm {
+    background-color: Blue;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 30px;
+    cursor:pointer;
+}

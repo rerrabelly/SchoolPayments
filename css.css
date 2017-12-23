@@ -1,0 +1,247 @@
+﻿html *
+{
+   font-family: Arial !important;
+}
+body {
+}
+#mainh {
+    height: 100px;
+    width: 100%;
+    top: 75px;
+    background-color: maroon;
+}
+#main {
+    height: 200px;
+    width: 100%;
+    top: 75px;
+}
+#top
+{
+    float: left;
+    height: 200px;
+    width: 20%;
+    top: 75px;
+    background-color: gold;
+}
+#para {
+    float: left;
+    height: 200px;
+    width: 80%;
+    top: 75px;
+    background-color:gold;
+     
+}
+#bottom{
+     margin-bottom:0px;
+      height: 100px;
+    width: 100%;
+     top:210px;
+   }
+#sub1{
+     height: 400px;
+    width: 50%;
+     background-color:orangered;
+    text-align: left;
+    float:left;
+    top: 210px;
+}
+#sub2{
+     height: 400px;
+     width:50%;
+     background-color: green;
+     float:right;
+     top: 210px;
+}
+
+table {
+float:left;
+
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 08px 10px;
+    text-decoration: none;
+    display: block;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    background-color: lightsteelblue;
+}
+
+.dropdown-content a:hover {}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+a.a1 {
+  color:white;
+  text-decoration: none; 
+  cursor:pointer;
+}
+
+.button {
+    background-color: blueviolet;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    cursor:pointer;
+}
+button.bu {
+    background-color: Highlight;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor:pointer;
+    }
+
+#banner
+{
+     font-size:35px;
+     font-family:Arial;
+     margin-right:60px;
+}
+
+.major {
+        height:800px;
+    background:white;
+    border:1px solid #CCC;
+    width:100%;
+    margin:0px auto;
+}
+
+.minor {
+    height:250px;
+    background:#FF7F50;
+    border:1px solid #CCC;
+    width:100%;
+    margin:0px auto;
+}
+.clbutton {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor:pointer;
+}
+
+#section1 {
+    height:150px;
+    background:white;
+    border:1px solid #CCC;
+    width:100%;
+    margin:0px auto;
+}
+
+.section2 {
+    width: 100%;
+}
+
+.section2left {
+    float:left; 
+    width: 43%;
+    background-color: white;
+    height: 400px;
+}
+
+.section2right {
+    float: right;
+    background-color: white;
+    height: 400px;
+    width: 57%;
+}
+a.a2{
+     font-size:12px;
+}
+.centered {
+    position: fixed;
+    top:10%;
+    left: 40%;
+    margin-top: 50px;
+    margin-left: 50px;
+    background-color:darkorange;
+}
+.right {
+    position: absolute;
+    right: auto;
+    left: auto;
+    background-color: darkorange;
+    }
+#table1, #table2, #table3,#table4,#table5 {
+    float: left;
+}
+#lct {
+float:left;
+}
+#lctdiv {
+    height: 100px;
+    width: 100%;
+    top: 75px;
+}
+.rcvrfrm {
+    width: 600px;
+    background-color: darkorange;
+    height: 350px;
+    margin: 0 auto;
+}
+td.first {
+
+width:200px;}
+td.second {
+    width: 200px;
+}
+td.third {
+    width: 200px;
+}
+.cadiv {
+    width: 650px;
+    background-color: darkorange;
+    height: 950px;
+    margin: 0 auto;
+
+}
+.msdiv {
+    width: 600px;
+    background-color: darkorange;
+    height: 750px;
+    margin: 0 auto;
+}
+.asdiv {
+    width: 600px;
+    background-color: darkorange;
+    height: 500px;
+    margin: 0 auto;
+}
+.ms2div {
+    width: 600px;
+    background-color: #B2BABB;
+}
+#nsdiv {
+    width: 600px;
+    background-color: white;
+}
+.as2div {
+    width: 600px;
+    background-color: white;
+}
